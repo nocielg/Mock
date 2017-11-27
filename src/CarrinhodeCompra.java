@@ -14,5 +14,7 @@ public class CarrinhodeCompra {
 			total += p.getValor();
 		return total;
 		}
-	
+	public void adicionarObservador(ObservadorCarrinho observador){
+		
+	}
 }
